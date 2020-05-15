@@ -1,0 +1,11 @@
+on MNIST Data Set with a 5 layer Deep Network 3 Conv Layers and 2 Fully connected layers  
+Test set: Average loss: 0.1433, Accuracy: 9599/10000 (96%) in 5 epochs
+
+on MNIST Data Set with a 5 layer Deep Network 3 Conv Layers added with corresponding identity function and 2 Fully connected layers 
+Test set: Average loss: 0.0465, Accuracy: 9840/10000 (98%) in 5 epochs
+
+on MNIST Data Set with a 7 layer Deep Network 5 Conv Layers added with corresponding identity function and 2 Fully connected layers 
+Test set: Average loss: 0.0538, Accuracy: 9834/10000 (98%) in 5 epochs
+
+
+Test set: Average loss: 0.0210, Accuracy: 9929/10000 (99%)
