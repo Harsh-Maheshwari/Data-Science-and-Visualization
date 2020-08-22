@@ -13,39 +13,39 @@ run any ML logic as needed. The static folder will contain any assets required
 for our app, from images to our pickeled models. Lastly, the template folder will
  contain the single HTML web page used in our app.
 
-gender
+1. gender
 Whether the customer is a male or a female
-SeniorCitizen
+2. SeniorCitizen
 Whether the customer is a senior citizen or not (1, 0)
-Partner
+3. Partner
 Whether the customer has a partner or not (Yes, No)
-Dependents
+4. Dependents
 Whether the customer has dependents or not (Yes, No)
-tenure
+5. tenure
 Number of months the customer has stayed with the company
-PhoneService
+6. PhoneService
 Whether the customer has a phone service or not (Yes, No)
-MultipleLines
+7. MultipleLines
 Whether the customer has multiple lines or not (Yes, No, No phone service)
-InternetService
+8. InternetService
 Customer’s internet service provider (DSL, Fiber optic, No)
-OnlineSecurity
+9. OnlineSecurity
 Whether the customer has online security or not (Yes, No, No internet service)
-OnlineBackup
+10. OnlineBackup
 Whether the customer has online backup or not (Yes, No, No internet service)
-DeviceProtection
+11. DeviceProtection
 Whether the customer has device protection or not (Yes, No, No internet service)
-TechSupport
+12. TechSupport
 Whether the customer has tech support or not (Yes, No, No internet service)
-StreamingTV
+13. StreamingTV
 Whether the customer has streaming TV or not (Yes, No, No internet service)
-StreamingMovies
+14. StreamingMovies
 Whether the customer has streaming movies or not (Yes, No, No internet service)
-Contract
+15. Contract
 The contract term of the customer (Month-to-month, One year, Two year)
-PaperlessBilling
+16. PaperlessBilling
 Whether the customer has paperless billing or not (Yes, No)
-PaymentMethod
+17. PaymentMethod
 The customer’s payment method (Electronic check, Mailed check, Bank transfer(automatic), Credit card (automatic))
-MonthlyCharges
+18. MonthlyCharges
 The amount charged to the customer monthly
