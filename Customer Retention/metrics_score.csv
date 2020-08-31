@@ -1,0 +1,5 @@
+Model,Accuracy,Model_Rank
+LogisticRegression,0.7889125799573561,1.0
+KNeighborsClassifier,0.7782515991471215,4.0
+DecisionTreeClassifier,0.7839374555792467,2.0
+RandomForestClassifier,0.783226723525231,3.0
